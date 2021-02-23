@@ -15,7 +15,9 @@ Elio Leka
 Billal Maqsoudi
 
 # Description
-For CI536 Integrated Group Project, a marketplace for the University of Brighton students to buy and sell. Suggested: Electronics and books!!
+For CI536 Integrated Group Project, Marketplace for students in Brighton to buy and sell items. 
+
+Suggested: Electronics and books!!
 
 # Responsibilities
 
