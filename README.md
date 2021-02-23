@@ -20,16 +20,18 @@ For CI536 Integrated Group Project, Marketplace for students in Brighton to buy 
 Suggested: Website -> Electronics and books!!
 
 # Responsibilities
+// Not decided yet!
+
+Salma Elkaramany - 
 
 Zakariaa Hmamou -
 
 Rachel Ives -
 
-Salma Elkaramany - 
-
 Ahmed Omar - 
+
+Elio Leka -
 
 Billal Maqsoudi - 
 
-Elio Leka -
 
