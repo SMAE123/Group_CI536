@@ -3,10 +3,15 @@ Integrated group project
 
 # Team 
 Salma Elkaramany
+
 Zakariaa Hmamou
+
 Rachel Ives
+
 Ahmed Omar
+
 Elio Leka
+
 Billal Maqsoudi
 
 # Description
