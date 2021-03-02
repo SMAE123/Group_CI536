@@ -20,7 +20,7 @@ For CI536 Integrated Group Project, Marketplace for students in Brighton to buy 
 Suggested: Website -> Electronics and books!!
 
 # Responsibilities
-// Not decided yet!
+**Week 3 Tasks**
 
 Salma Elkaramany - Design and layout of website
 
