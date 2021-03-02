@@ -22,16 +22,15 @@ Suggested: Website -> Electronics and books!!
 # Responsibilities
 // Not decided yet!
 
-Salma Elkaramany - 
+Salma Elkaramany - Design and layout of website
 
 Zakariaa Hmamou -
 
-Rachel Ives -
+Rachel Ives - Design and layout of website
 
-Ahmed Omar - 
+Ahmed Omar - Intro for report description and reasoning
 
-Elio Leka -
+Elio Leka - Logo and site name
 
-Billal Maqsoudi - 
-
+Billal Maqsoudi - Features and requirements
 
