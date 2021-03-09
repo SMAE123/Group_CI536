@@ -24,7 +24,7 @@ Suggested: Website -> Electronics and books!!
 
 Salma Elkaramany - Design and layout of website
 
-Zakariaa Hmamou - Payment and securities
+Zakariaa Hmamou - Payment and securities (50% Done)
 
 Rachel Ives - Design and layout of website
 
