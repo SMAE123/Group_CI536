@@ -34,3 +34,17 @@ Elio Leka - Logo and site name
 
 Billal Maqsoudi - Features and requirements
 
+**Week 4 Tasks**
+Salma Elkaramany - Design and layout of website (in progress)
+
+Zakariaa Hmamou - Payment and securities (50% Done)
+
+Rachel Ives - Design and layout of website (in progress)
+
+Ahmed Omar - Intro for report description and reasoning
+
+Elio Leka - setting up website
+
+Billal Maqsoudi - setting up website
+
+
