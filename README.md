@@ -17,7 +17,7 @@ Billal Maqsoudi
 # Description
 For CI536 Integrated Group Project, Marketplace for students in Brighton to buy and sell items. 
 
-Suggested: Website -> Electronics and books!!
+
 
 
 
