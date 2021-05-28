@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+    	<script src="index.js"></script>
+		<title>Contact Us Form</title>
+	</head>
+	
+	<body class="body_form">
+		<!--The 'wrapper2' contains all the page content-->
+		<div class="wrapper2">
+			<header class="banner2">
+				<h1 class="h1_2">Contact Us</h1>
+				<img class="img_form" src="logo.jpeg" alt="logo"/>
+			</header>
+
+			<div class="topnav2">
+				<nav class="menu2"><!--The primary navigation for the page -->
+					<ul>
+						<li><a href="index.html">HOME</a></li>
+					</ul>
+				</nav>
+			</div>
+					<h2 class="h2_2">Please get in touch with us here. Thanks!</h2>
+					
+			<div id="contact">
+				
+				<form class="contact_form">
+					<fieldset class="fieldset_form1">
+						<legend>Leave a message and we'll contact you shortly!</legend>
+						
+						<label for="email">Email* <span id="hint_email"> - Please enter your email</span></label>
+						<input id="email" type="email"/>
+						
+						<label for="subject">Subject* <span id="hint_subject"> - Please enter a subject</span></label>
+						<input id="subject" type="text"/>
+						
+						<label for="message">Message* <span id="hint_message">- Please enter a message</span></label>
+						<textarea id="message"></textarea>
+						
+						
+						<input type="submit" value="Send Message"/>
+					
+					</fieldset>
+				</form>
+			</div>
+			
+			<div id="loading" >
+				<img class="img_loading_form" src="loading.gif.png" alt="icon"/>
+			</div>
+			
+			<div id="success">
+				<h2>Thank you!</h2>
+				<!--Link back: send another one-->
+				<p><a id="reset_success" href="#">Send another message</a></p>
+				<p>Or</p>
+				<p><a id="reset_success_2" href="index.html">Return to home page</a></p>
+			</div>
+			
+			<div id="error">
+				<h2>Oops - something went wrong</h2>
+				<!--Link back: try again-->
+				<p><a id="reset_error" href="#">Try again</a></p>
+			</div>
+
+			
+			<footer class="footer2"><!--Footer content -->
+        		<p>&copy; 2020/21, CI536 | Integrated Group Project | Marketplace | By </p>
+				<p>Billal Maqsoudi | Elio Leka | Rachel Ives | Salma Elkaramany | Zakariaa Hmamou | Ahmed Omar.</p>
+				<p>University of Brighton.</p>
+        	</footer>
+
+		</div>	
+	</body>
+</html>	
